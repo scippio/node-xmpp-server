@@ -33,6 +33,8 @@
     "ws": "^1.0.1"
   },
   "devDependencies": {
+    "mocha": "^2.4.5",
+    "standard": "^5.4.1",
     "coveralls": "^2.11.6",
     "istanbul": "^0.4.2",
     "node-xmpp-client": "^3.0.0",
